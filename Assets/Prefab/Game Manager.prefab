@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5789107088190966105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1405434440744485822}
+  - component: {fileID: 2758426335115853749}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1405434440744485822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5789107088190966105}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2758426335115853749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5789107088190966105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0679fc3441b442842ba5c5208c517a4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentDay: 0
+  ViolationCount: 0
+  isDay0_ClickBaitSelected: 0
+  isDay0_ProstitutionScamSelected: 0
+  isDay1_MisinformationSelected: 0
+  isDay1_PhishingSelected: 0
+  isDay1_RiskyNewsSelected: 0
+  isDay2_TravisPost1Selected: 0
+  isDay2_DogKilledSelected: 0
+  isDay2_DepressedPersonSelected: 0
+  isDay2_HangSuicideSelected: 0
+  isDay3_HotdogCultSelected: 0
+  isDay3_BlondeSelected: 0
+  isDay3_TravisPost2Selected: 0
+  isDay4_EdwardCaseSelected: 0
+  isDay4_ScreamerSelected: 0
+  isDay4_HomelessSelected: 0
+  isDay4_DogFoundDeadSelected: 0
+  isDay4_RiskyNew2sSelected: 0
+  isDay5_HowardDeadSelected: 0
+  isDay5_StrugglingFamilySelected: 0
+  isDay5_ChaoticProtestSelected: 0
+  isDay5_BankHeistSelected: 0
+  isDay5_DiyViagraSelected: 0
+  isDay5_HotdogCult2Selected: 0
+  isDay6_HumanoidFigureSelected: 0
+  isDay6_PedophileSelected: 0
+  isDay6_ShotDeadtSelected: 0
+  isDay6_DeadBirdSelected: 0
+  isDay6_BirdParanoid: 0
+  isDay6_StrugglingFamilyGoodSelected: 0
+  isDay6_StrugglingFamilyBadSelected: 0
+  isDay6_StrugglingFamilyBankSelected: 0
+  isDay7_RanOverSelected: 0
+  isDay7_ClockPrankSelected: 0
+  isDay7_PieSelected: 0
+  isDay7_QRCodeSelected: 0
+  isDay7_EdwardClosureSelected: 0
+  isDay8_Killer1Selected: 0
+  isDay8_Killer2Selected: 0
+  isDay8_Killer3Selected: 0
+  isDay8_ComputerHackSelected: 0
+  isDay8_MachoCatSelected: 0
+  isDay8_ActressSelected: 0
+  isDay8_ArmedProtestSelected: 0
+  isDay8_PowerPlantSelected: 0
+  isDay9_KillerLocationSelected: 0
+  isDay9_GhostWeaponsSelected: 0
+  isDay9_SellingThesisPaperSelected: 0
+  isDay9_CyberbullySelected: 0
+  isDay9_EndangeredAnimalSelected: 0
+  isDay9_FingerInjurySelected: 0
+  isDay9_Protest2tSelected: 0
+  isDay9_PregTestSelected: 0
+  HasAlreadyBooted: 0
+  HasAlreadyLoggedIn: 0

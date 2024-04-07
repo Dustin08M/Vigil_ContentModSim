@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.12.2020 21:56:48
+
+newmtl Cassette
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Miles\Desktop\Work\_Work\Cassette Recorder and Tapes\Cassette_Tapes\mat2_c.jpg
+	map_Kd C:\Users\Miles\Desktop\Work\_Work\Cassette Recorder and Tapes\Cassette_Tapes\mat2_c.jpg
+
+newmtl Tape_Glass
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka mat7_c.jpg
+	map_Kd mat7_c.jpg
+
+newmtl Level_Glass
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka mat3_c.jpg
+	map_Kd mat3_c.jpg
+
+newmtl Recorder
+	Ns 43.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka mat5_c.jpg
+	map_Kd mat5_c.jpg

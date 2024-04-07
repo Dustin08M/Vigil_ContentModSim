@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCamera
+  - CameraTerminal
+  - Day0_Phishing
+  - Day0_ProstitutionScam
+  - DayCounter
+  - ViolationFade
+  - Day1_Misinformation
+  - Day1_Phishing
+  - Day1_RiskyNews
+  - Day0_PhishingConsequence
+  - Day0_ProstitutionConsequence
+  - Day2_TravisPost1
+  - Day2_DogKilled
+  - Day2_DepressedPerson
+  - Day2_HangSuicide
+  - Day3_HotdogCult
+  - Day3_Blonde
+  - Day3_TravisPost2
+  - Day4_EdwardCase
+  - Day4_Screamer
+  - Day4_Homeless
+  - Day4_RiskyNews2
+  - Day4_DogFoundDead
+  - Day5_HowardDead
+  - Day5_StrugglingFamily
+  - Day5_ChaoticProtest
+  - Day5_BankHeist
+  - Day5_DiyViagra
+  - EndOfComic
+  - StartofComic
+  - Day5_HotdogCult2
+  - Day6_HumanoidFigure
+  - Day6_Pedophile
+  - Day6_ShotDead
+  - Day6_DeadBird
+  - Day6_BirdParanoia
+  - Day6_StrugglingFamilyGood
+  - Day6_StrugglingFamilyBad
+  - Day6_StrugglingFamilyBank
+  - Day4DogFoundDead
+  - Day7_RanOver
+  - Day7_ClockPrank
+  - Day7_Pie
+  - Day7_QRCode
+  - Day7_EdwardClosure
+  - Day8_Killer
+  - Day8_Killer2
+  - Day8_Killer3
+  - Day8_ComputerHack
+  - Day8_MachoCat
+  - Day8_NPPFailing
+  - Day9_KillerLocation
+  - Day9_GhostWeapons
+  - Day9_SellingThesisPaper
+  - Day9_FingerInjury
+  - Day8_Actress
+  - Day8_Protest
+  - Day9_Cyberbully
+  - Day9_EndangeredAnimal
+  - Day9_Protest2
+  - Day9_PregTest
+  - End_of_Finale_Comic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Obstacle
+  - No Post Process
+  - Cube Lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3452056015
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3884290385
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2629537057
+    locked: 0
